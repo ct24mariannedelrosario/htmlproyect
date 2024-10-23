@@ -1,2 +1,14 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="UTF-8">
+        <title>Mi primera página</title>
+        <link rel="stylesheet" href="comidasinsazon.css">
+    </head> 
+    <body> 
+        <h1>Bienvenidos a mi sitio web</h1>
+        <img src="https://technovationchallenge.org/wp-content/uploads/2023/11/technovation-logo-square512-300x300.png" alt="Technovation Girls">
+        <p>Mi comida favorita es el spaguetti alfredo</p> 
+        <p>mis pasatiempos son jugar voley, tkd, esucchar musica y pintar</p> 
+    </body> 
+</html>
